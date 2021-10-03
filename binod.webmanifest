@@ -4,6 +4,48 @@
   "description": "A passionate blogger from Nepal",
   "icons": [
     {
+      "src": "https://lh3.googleusercontent.com/-uyakSUn2qug/YVlst12GMPI/AAAAAAAAD_c/tkQQEYfg9KoDrQD_BTSeiUfwfKDjbKp1wCLcBGAsYHQ/s16000/maskable_icon_x48.png",
+      "sizes": "48x48",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/-lHdcHDonSoQ/YVlsuFinfzI/AAAAAAAAD_k/U9XSp8vyO8UwnJevGQlR8ZL_Zfza15aogCLcBGAsYHQ/s16000/maskable_icon_x72.png",
+      "sizes": "72x72",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/-Qe_xtkcaqT8/YVlsupji13I/AAAAAAAAD_g/nBJFoGo6gaYAo9SEEcasXa0VV_7y2by2ACLcBGAsYHQ/s16000/maskable_icon_x96.png",
+      "sizes": "96x96",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/assets/icons/128.pnghttps://lh3.googleusercontent.com/-WLcM8NqnyU0/YVlst-R2jxI/AAAAAAAAD_Y/bSqeDk1-3N0s_GXH7fXJa2jnjV8a69iWwCLcBGAsYHQ/s16000/maskable_icon_x128.png",
+      "sizes": "128x128",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/-p_PfHqAeWxU/YVlst7XibxI/AAAAAAAAD_U/wnln-64w6kc82sys_mQR-7Jxg6DkOZMXwCLcBGAsYHQ/s16000/maskable_icon_x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/-_CwDedm8ics/YVlsuLT4rHI/AAAAAAAAD_o/cs-Os6DHW8EQhFCvIWFI865-B-_h2j_NQCLcBGAsYHQ/s16000/maskable_icon_x384.png",
+      "sizes": "384x384",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/-x_8UskVkS8Y/YVlst59Lh3I/AAAAAAAAD_Q/uxC7xZY0CJA6fmV2XLjKrDbn_Xt3tjYOACLcBGAsYHQ/s16000/maskable_icon_x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
       "src": "https://1.bp.blogspot.com/-Z635pKwSzYo/YVVUiRkrLcI/AAAAAAAAD9w/I1F3UkvuPA4hVKyaE6i__5v2FqiVVpmbwCLcBGAsYHQ/s16000/android-chrome-192x192.png",
       "sizes": "192x192",
       "type": "image/png",
@@ -26,5 +68,16 @@
   "prefer_related_applications": false,
   "start_url": "https://www.binod-bhatt.com.np/",
   "categories": [],
-  "screenshots": []
+  "screenshots": [
+    {
+      "src": "https://lh3.googleusercontent.com/-T0ntv5O0tzQ/YVl3YPLktoI/AAAAAAAAD_4/f-vsFZ7XBSgaHZJY1TvdrulZoU1LuZ71ACLcBGAsYHQ/s16000/www.binod-bhatt.com.np_%2528Galaxy%2BS5%2529.png",
+      "sizes": "1080x1920",
+      "type": "image/png"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/-dWPYWAXRFnU/YVl3YBbuTzI/AAAAAAAAD_8/Qjs4xoWaA0woPjX6_40LIGiVIvDgZ-cDACLcBGAsYHQ/s16000/www.binod-bhatt.com.np_%2528Galaxy%2BS5%2529%2B%25283%2529.png",
+      "sizes": "1080x1920",
+      "type": "image/png"
+    }
+  ]
 }
