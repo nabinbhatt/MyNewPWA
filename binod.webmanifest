@@ -22,7 +22,7 @@
   "dir": "ltr",
   "display": "standalone",
   "orientation": "any",
-  "scope": "/",
+  "scope": "https://www.binod-bhatt.com.np/?luncher=homescreen",
   "prefer_related_applications": false,
   "start_url": "https://www.binod-bhatt.com.np/",
   "categories": [],
