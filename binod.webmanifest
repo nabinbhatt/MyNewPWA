@@ -58,7 +58,21 @@
       "purpose": "any"
     }
   ],
-  "shortcuts": [],
+  "categories": ["portfolio"],
+  "shortcuts" : [
+    {
+      "name": "Binod's Blog",
+      "url": "/",
+      "description": "blog posts by Binod Bhatt",
+      "icons": [
+        {
+          "src": "https://lh3.googleusercontent.com/-Qe_xtkcaqT8/YVlsupji13I/AAAAAAAAD_g/nBJFoGo6gaYAo9SEEcasXa0VV_7y2by2ACLcBGAsYHQ/s16000/maskable_icon_x96.png",
+          "sizes": "96x96",
+          "type": "image/png"
+        }
+      ]
+    }
+  ],
   "theme_color": "#f4f4f4",
   "background_color": "#ffffff",
   "dir": "ltr",
@@ -67,7 +81,6 @@
   "scope": "https://www.binod-bhatt.com.np/?luncher=homescreen",
   "prefer_related_applications": false,
   "start_url": "https://www.binod-bhatt.com.np/",
-  "categories": [],
   "screenshots": [
     {
       "src": "https://lh3.googleusercontent.com/-T0ntv5O0tzQ/YVl3YPLktoI/AAAAAAAAD_4/f-vsFZ7XBSgaHZJY1TvdrulZoU1LuZ71ACLcBGAsYHQ/s16000/www.binod-bhatt.com.np_%2528Galaxy%2BS5%2529.png",
